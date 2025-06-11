@@ -1,0 +1,3902 @@
+{
+  "text": "Men på den första dagen i veckan kom Maria Magdalena tidigt, medan det ännu var mörkt, till graven och fick se att stenen var borttagen från graven. Då sprang hon därifrån och kom till Simon Petrus och till den andra lärjungen, den som Jesus älskade, och sa till dem, «De har tagit bort Herren ur graven, och vi vet inte var de har lagt honom.» Då begav sig Petrus och den andra lärjungen iväg och kom till graven, och de sprang båda tillsammans. Men den andra lärjungen sprang snabbare än Petrus och kom först till graven. Och när han lutade sig ner såg han linnebindlarna ligga där, men han gick inte in. Så kom Simon Petrus efter honom, och han gick in i graven och såg linnebindlarna ligga där och duken som hade täckt hans huvud. Den låg inte tillsammans med linnebindlarna utan för sig själv, hoppvikt på en särskild plats. Därför gick då också den andra lärjungen in, han som hade kommit först till graven, och han såg och trodde, för de hade ännu inte förstått skriften att han skulle uppstå från de döda. Därefter gick lärjungarna tillbaka till sina hem igen, men Maria stod och grät utanför graven. Och medan hon grät lutade hon sig in i graven och fick se två änglar i vita kläder sitta, där Jesu kropp hade legat, den ena vid huvudet och den andra vid fötterna. Och de sa till henne, – Kvinna, varför gråter du? Hon sa till dem, – Därför att de har tagit bort min Herre, och jag vet inte var de har lagt honom. Och när hon sa detta vände hon sig om och fick se Jesus stå där, men hon visste inte att det var Jesus. Jesus sa till henne, – Tinna, varför gråter du? Vem söker du? Hon trodde att det var trädgårdsmästaren och sa till honom, – Herre, om du har burit bort honom, så säg mig var du har lagt honom, så att jag kan hämta honom. Jesus sa till henne, – Maria. Hon vände sig om och sa till honom, – Rabuni, det betyder mästare. Jesus sa till henne, – Rör inte vid mig, för jag har ännu inte farit upp till min fader. Men gå till mina bröder och säg till dem, – Jag far upp till min fader och er fader och till min Gud och er dud. Maria Magdalena kom och berättade för lärjungarna att hon hade sett Herren och att han hade sagt detta till henne. Senare samma dag på kvällen, den första i veckan, då lärjungarna av rädsla för judarna var samlade bakom låsta dörrar, kom Jesus och stod mitt ibland dem och sa till dem, – Frid var med er. Och när han hade sagt detta visade han dem sina händer och sin sida. Då blev lärjungarna glada när de såg Herren. Då sa Jesus än en gång till dem, – Frid var med er. Såsom fadern har sänt mig så sänder också jag er. När han hade sagt detta andades han på dem och sa till dem, – Ta emot den helige ande. Om ni förlåter någon hans synder så är de förlåtna, och om ni binder någon i hans synder så är han bunden. Men Tomas, en av de tolv som kallades Tvillingen, var inte med dem när Jesus kom. Då sa de andra lärjungarna till honom, – Vi har sett Herren. Men han sa till dem, – Om jag inte får se hålen efter spikarna i hans händer och sticka mitt finger i hålen efter spikarna och sticka min hand i hans sida så tror jag det inte. Och åtta dagar därefter var hans lärjungar inne igen, och Tomas var med dem. Då kom Jesus, medan dörrarna var låsta, och stod mitt ibland dem och sa, – Frid var med er. Sedan sa han till Tomas, – Räck hit ditt finger och se mina händer, och räck hit din hand och stickpen i min sida, och tvivla inte utan tro. Och Tomas svarade och sa till honom, – Min Herre och min Gud. Jesus sa till honom, – Eftersom du har sett mig, Tomas, tror du. Saliga är de som inte ser och ändå tror. Och i sanning gjorde Jesus i sina lärjungars åsyn också många andra mirakler som inte är uppskrivna i denna bok. Men dessa har blivit medskrivna för att ni ska tro att Jesus är Kristus, Guds son, och för att ni genom tron ska ha liv i hans namn.",
+  "words": [
+    {
+      "word": "Men",
+      "start": 0,
+      "end": 0.2199999988079071
+    },
+    {
+      "word": "på",
+      "start": 0.2199999988079071,
+      "end": 0.46000000834465027
+    },
+    {
+      "word": "den",
+      "start": 0.46000000834465027,
+      "end": 0.7400000095367432
+    },
+    {
+      "word": "första",
+      "start": 0.7400000095367432,
+      "end": 1.0199999809265137
+    },
+    {
+      "word": "dagen",
+      "start": 1.0199999809265137,
+      "end": 1.4199999570846558
+    },
+    {
+      "word": "i",
+      "start": 1.4199999570846558,
+      "end": 1.9199999570846558
+    },
+    {
+      "word": "veckan",
+      "start": 1.9199999570846558,
+      "end": 2.1600000858306885
+    },
+    {
+      "word": "kom",
+      "start": 2.1600000858306885,
+      "end": 2.559999942779541
+    },
+    {
+      "word": "Maria",
+      "start": 2.559999942779541,
+      "end": 3.059999942779541
+    },
+    {
+      "word": "Magdalena",
+      "start": 3.059999942779541,
+      "end": 3.700000047683716
+    },
+    {
+      "word": "tidigt",
+      "start": 3.700000047683716,
+      "end": 4.460000038146973
+    },
+    {
+      "word": "medan",
+      "start": 4.840000152587891,
+      "end": 5.039999961853027
+    },
+    {
+      "word": "det",
+      "start": 5.039999961853027,
+      "end": 5.179999828338623
+    },
+    {
+      "word": "ännu",
+      "start": 5.179999828338623,
+      "end": 5.5
+    },
+    {
+      "word": "var",
+      "start": 5.5,
+      "end": 5.659999847412109
+    },
+    {
+      "word": "mörkt",
+      "start": 5.659999847412109,
+      "end": 6.019999980926514
+    },
+    {
+      "word": "till",
+      "start": 6.400000095367432,
+      "end": 6.559999942779541
+    },
+    {
+      "word": "graven",
+      "start": 6.559999942779541,
+      "end": 7.059999942779541
+    },
+    {
+      "word": "och",
+      "start": 7.059999942779541,
+      "end": 7.340000152587891
+    },
+    {
+      "word": "fick",
+      "start": 7.340000152587891,
+      "end": 7.559999942779541
+    },
+    {
+      "word": "se",
+      "start": 7.559999942779541,
+      "end": 7.739999771118164
+    },
+    {
+      "word": "att",
+      "start": 7.739999771118164,
+      "end": 8.0600004196167
+    },
+    {
+      "word": "stenen",
+      "start": 8.0600004196167,
+      "end": 8.380000114440918
+    },
+    {
+      "word": "var",
+      "start": 8.380000114440918,
+      "end": 8.619999885559082
+    },
+    {
+      "word": "borttagen",
+      "start": 8.619999885559082,
+      "end": 9.15999984741211
+    },
+    {
+      "word": "från",
+      "start": 9.15999984741211,
+      "end": 9.380000114440918
+    },
+    {
+      "word": "graven",
+      "start": 9.380000114440918,
+      "end": 9.760000228881836
+    },
+    {
+      "word": "Då",
+      "start": 10.5600004196167,
+      "end": 10.819999694824219
+    },
+    {
+      "word": "sprang",
+      "start": 10.819999694824219,
+      "end": 11.220000267028809
+    },
+    {
+      "word": "hon",
+      "start": 11.220000267028809,
+      "end": 11.380000114440918
+    },
+    {
+      "word": "därifrån",
+      "start": 11.380000114440918,
+      "end": 12.119999885559082
+    },
+    {
+      "word": "och",
+      "start": 12.119999885559082,
+      "end": 12.640000343322754
+    },
+    {
+      "word": "kom",
+      "start": 12.640000343322754,
+      "end": 12.859999656677246
+    },
+    {
+      "word": "till",
+      "start": 12.859999656677246,
+      "end": 13.079999923706055
+    },
+    {
+      "word": "Simon",
+      "start": 13.079999923706055,
+      "end": 13.479999542236328
+    },
+    {
+      "word": "Petrus",
+      "start": 13.479999542236328,
+      "end": 14.0600004196167
+    },
+    {
+      "word": "och",
+      "start": 14.0600004196167,
+      "end": 14.300000190734863
+    },
+    {
+      "word": "till",
+      "start": 14.300000190734863,
+      "end": 14.5
+    },
+    {
+      "word": "den",
+      "start": 14.5,
+      "end": 14.680000305175781
+    },
+    {
+      "word": "andra",
+      "start": 14.680000305175781,
+      "end": 15.020000457763672
+    },
+    {
+      "word": "lärjungen",
+      "start": 15.020000457763672,
+      "end": 15.65999984741211
+    },
+    {
+      "word": "den",
+      "start": 16.15999984741211,
+      "end": 16.31999969482422
+    },
+    {
+      "word": "som",
+      "start": 16.31999969482422,
+      "end": 16.700000762939453
+    },
+    {
+      "word": "Jesus",
+      "start": 16.700000762939453,
+      "end": 17.15999984741211
+    },
+    {
+      "word": "älskade",
+      "start": 17.15999984741211,
+      "end": 17.719999313354492
+    },
+    {
+      "word": "och",
+      "start": 18.18000030517578,
+      "end": 18.399999618530273
+    },
+    {
+      "word": "sa",
+      "start": 18.399999618530273,
+      "end": 18.579999923706055
+    },
+    {
+      "word": "till",
+      "start": 18.579999923706055,
+      "end": 18.780000686645508
+    },
+    {
+      "word": "dem",
+      "start": 18.780000686645508,
+      "end": 18.920000076293945
+    },
+    {
+      "word": "«De",
+      "start": 19.440000534057617,
+      "end": 19.479999542236328
+    },
+    {
+      "word": "har",
+      "start": 19.479999542236328,
+      "end": 19.68000030517578
+    },
+    {
+      "word": "tagit",
+      "start": 19.68000030517578,
+      "end": 20
+    },
+    {
+      "word": "bort",
+      "start": 20,
+      "end": 20.34000015258789
+    },
+    {
+      "word": "Herren",
+      "start": 20.34000015258789,
+      "end": 20.68000030517578
+    },
+    {
+      "word": "ur",
+      "start": 20.68000030517578,
+      "end": 20.899999618530273
+    },
+    {
+      "word": "graven",
+      "start": 20.899999618530273,
+      "end": 21.31999969482422
+    },
+    {
+      "word": "och",
+      "start": 21.440000534057617,
+      "end": 21.579999923706055
+    },
+    {
+      "word": "vi",
+      "start": 21.579999923706055,
+      "end": 21.780000686645508
+    },
+    {
+      "word": "vet",
+      "start": 21.780000686645508,
+      "end": 21.959999084472656
+    },
+    {
+      "word": "inte",
+      "start": 21.959999084472656,
+      "end": 22.260000228881836
+    },
+    {
+      "word": "var",
+      "start": 22.260000228881836,
+      "end": 22.420000076293945
+    },
+    {
+      "word": "de",
+      "start": 22.420000076293945,
+      "end": 22.559999465942383
+    },
+    {
+      "word": "har",
+      "start": 22.559999465942383,
+      "end": 22.8799991607666
+    },
+    {
+      "word": "lagt",
+      "start": 22.8799991607666,
+      "end": 22.940000534057617
+    },
+    {
+      "word": "honom.»",
+      "start": 22.940000534057617,
+      "end": 23.600000381469727
+    },
+    {
+      "word": "Då",
+      "start": 23.600000381469727,
+      "end": 24.040000915527344
+    },
+    {
+      "word": "begav",
+      "start": 24.040000915527344,
+      "end": 24.479999542236328
+    },
+    {
+      "word": "sig",
+      "start": 24.479999542236328,
+      "end": 24.799999237060547
+    },
+    {
+      "word": "Petrus",
+      "start": 24.799999237060547,
+      "end": 25.360000610351562
+    },
+    {
+      "word": "och",
+      "start": 25.360000610351562,
+      "end": 25.600000381469727
+    },
+    {
+      "word": "den",
+      "start": 25.600000381469727,
+      "end": 26.040000915527344
+    },
+    {
+      "word": "andra",
+      "start": 26.040000915527344,
+      "end": 26.139999389648438
+    },
+    {
+      "word": "lärjungen",
+      "start": 26.139999389648438,
+      "end": 26.780000686645508
+    },
+    {
+      "word": "iväg",
+      "start": 26.780000686645508,
+      "end": 27.360000610351562
+    },
+    {
+      "word": "och",
+      "start": 27.360000610351562,
+      "end": 27.739999771118164
+    },
+    {
+      "word": "kom",
+      "start": 27.739999771118164,
+      "end": 27.979999542236328
+    },
+    {
+      "word": "till",
+      "start": 27.979999542236328,
+      "end": 28.260000228881836
+    },
+    {
+      "word": "graven",
+      "start": 28.260000228881836,
+      "end": 28.65999984741211
+    },
+    {
+      "word": "och",
+      "start": 28.65999984741211,
+      "end": 29.219999313354492
+    },
+    {
+      "word": "de",
+      "start": 29.219999313354492,
+      "end": 29.520000457763672
+    },
+    {
+      "word": "sprang",
+      "start": 29.520000457763672,
+      "end": 29.780000686645508
+    },
+    {
+      "word": "båda",
+      "start": 29.780000686645508,
+      "end": 30.399999618530273
+    },
+    {
+      "word": "tillsammans",
+      "start": 30.399999618530273,
+      "end": 31.18000030517578
+    },
+    {
+      "word": "Men",
+      "start": 31.639999389648438,
+      "end": 31.81999969482422
+    },
+    {
+      "word": "den",
+      "start": 31.81999969482422,
+      "end": 32.02000045776367
+    },
+    {
+      "word": "andra",
+      "start": 32.02000045776367,
+      "end": 32.380001068115234
+    },
+    {
+      "word": "lärjungen",
+      "start": 32.380001068115234,
+      "end": 33.060001373291016
+    },
+    {
+      "word": "sprang",
+      "start": 33.060001373291016,
+      "end": 33.41999816894531
+    },
+    {
+      "word": "snabbare",
+      "start": 33.41999816894531,
+      "end": 33.97999954223633
+    },
+    {
+      "word": "än",
+      "start": 33.97999954223633,
+      "end": 34.15999984741211
+    },
+    {
+      "word": "Petrus",
+      "start": 34.15999984741211,
+      "end": 34.599998474121094
+    },
+    {
+      "word": "och",
+      "start": 34.599998474121094,
+      "end": 34.81999969482422
+    },
+    {
+      "word": "kom",
+      "start": 34.81999969482422,
+      "end": 35.02000045776367
+    },
+    {
+      "word": "först",
+      "start": 35.02000045776367,
+      "end": 35.36000061035156
+    },
+    {
+      "word": "till",
+      "start": 35.36000061035156,
+      "end": 35.52000045776367
+    },
+    {
+      "word": "graven",
+      "start": 35.52000045776367,
+      "end": 35.86000061035156
+    },
+    {
+      "word": "Och",
+      "start": 36.459999084472656,
+      "end": 36.63999938964844
+    },
+    {
+      "word": "när",
+      "start": 36.63999938964844,
+      "end": 36.7599983215332
+    },
+    {
+      "word": "han",
+      "start": 36.7599983215332,
+      "end": 36.900001525878906
+    },
+    {
+      "word": "lutade",
+      "start": 36.900001525878906,
+      "end": 37.380001068115234
+    },
+    {
+      "word": "sig",
+      "start": 37.380001068115234,
+      "end": 37.619998931884766
+    },
+    {
+      "word": "ner",
+      "start": 37.619998931884766,
+      "end": 37.880001068115234
+    },
+    {
+      "word": "såg",
+      "start": 37.880001068115234,
+      "end": 38.599998474121094
+    },
+    {
+      "word": "han",
+      "start": 38.599998474121094,
+      "end": 38.81999969482422
+    },
+    {
+      "word": "linnebindlarna",
+      "start": 38.81999969482422,
+      "end": 39.70000076293945
+    },
+    {
+      "word": "ligga",
+      "start": 39.70000076293945,
+      "end": 39.84000015258789
+    },
+    {
+      "word": "där",
+      "start": 39.84000015258789,
+      "end": 40.119998931884766
+    },
+    {
+      "word": "men",
+      "start": 40.47999954223633,
+      "end": 40.619998931884766
+    },
+    {
+      "word": "han",
+      "start": 40.619998931884766,
+      "end": 40.939998626708984
+    },
+    {
+      "word": "gick",
+      "start": 40.939998626708984,
+      "end": 41.18000030517578
+    },
+    {
+      "word": "inte",
+      "start": 41.18000030517578,
+      "end": 41.400001525878906
+    },
+    {
+      "word": "in",
+      "start": 41.400001525878906,
+      "end": 41.70000076293945
+    },
+    {
+      "word": "Så",
+      "start": 42.41999816894531,
+      "end": 42.619998931884766
+    },
+    {
+      "word": "kom",
+      "start": 42.619998931884766,
+      "end": 42.91999816894531
+    },
+    {
+      "word": "Simon",
+      "start": 42.91999816894531,
+      "end": 43.439998626708984
+    },
+    {
+      "word": "Petrus",
+      "start": 43.439998626708984,
+      "end": 43.97999954223633
+    },
+    {
+      "word": "efter",
+      "start": 43.97999954223633,
+      "end": 44.439998626708984
+    },
+    {
+      "word": "honom",
+      "start": 44.439998626708984,
+      "end": 44.959999084472656
+    },
+    {
+      "word": "och",
+      "start": 45.29999923706055,
+      "end": 45.63999938964844
+    },
+    {
+      "word": "han",
+      "start": 45.63999938964844,
+      "end": 45.779998779296875
+    },
+    {
+      "word": "gick",
+      "start": 45.779998779296875,
+      "end": 45.900001525878906
+    },
+    {
+      "word": "in",
+      "start": 45.900001525878906,
+      "end": 46.119998931884766
+    },
+    {
+      "word": "i",
+      "start": 46.119998931884766,
+      "end": 46.279998779296875
+    },
+    {
+      "word": "graven",
+      "start": 46.279998779296875,
+      "end": 46.619998931884766
+    },
+    {
+      "word": "och",
+      "start": 46.619998931884766,
+      "end": 46.97999954223633
+    },
+    {
+      "word": "såg",
+      "start": 46.97999954223633,
+      "end": 47.41999816894531
+    },
+    {
+      "word": "linnebindlarna",
+      "start": 47.41999816894531,
+      "end": 48.18000030517578
+    },
+    {
+      "word": "ligga",
+      "start": 48.18000030517578,
+      "end": 48.31999969482422
+    },
+    {
+      "word": "där",
+      "start": 48.31999969482422,
+      "end": 48.599998474121094
+    },
+    {
+      "word": "och",
+      "start": 48.599998474121094,
+      "end": 49.18000030517578
+    },
+    {
+      "word": "duken",
+      "start": 49.18000030517578,
+      "end": 49.63999938964844
+    },
+    {
+      "word": "som",
+      "start": 49.63999938964844,
+      "end": 49.900001525878906
+    },
+    {
+      "word": "hade",
+      "start": 49.900001525878906,
+      "end": 50.119998931884766
+    },
+    {
+      "word": "täckt",
+      "start": 50.119998931884766,
+      "end": 50.36000061035156
+    },
+    {
+      "word": "hans",
+      "start": 50.36000061035156,
+      "end": 50.619998931884766
+    },
+    {
+      "word": "huvud",
+      "start": 50.619998931884766,
+      "end": 51.29999923706055
+    },
+    {
+      "word": "Den",
+      "start": 51.81999969482422,
+      "end": 51.81999969482422
+    },
+    {
+      "word": "låg",
+      "start": 51.81999969482422,
+      "end": 52.2400016784668
+    },
+    {
+      "word": "inte",
+      "start": 52.2400016784668,
+      "end": 52.400001525878906
+    },
+    {
+      "word": "tillsammans",
+      "start": 52.400001525878906,
+      "end": 52.97999954223633
+    },
+    {
+      "word": "med",
+      "start": 52.97999954223633,
+      "end": 53.20000076293945
+    },
+    {
+      "word": "linnebindlarna",
+      "start": 53.20000076293945,
+      "end": 54.08000183105469
+    },
+    {
+      "word": "utan",
+      "start": 54.08000183105469,
+      "end": 54.400001525878906
+    },
+    {
+      "word": "för",
+      "start": 54.400001525878906,
+      "end": 54.720001220703125
+    },
+    {
+      "word": "sig",
+      "start": 54.720001220703125,
+      "end": 54.91999816894531
+    },
+    {
+      "word": "själv",
+      "start": 54.91999816894531,
+      "end": 55.2400016784668
+    },
+    {
+      "word": "hoppvikt",
+      "start": 55.619998931884766,
+      "end": 56.119998931884766
+    },
+    {
+      "word": "på",
+      "start": 56.119998931884766,
+      "end": 56.31999969482422
+    },
+    {
+      "word": "en",
+      "start": 56.31999969482422,
+      "end": 56.58000183105469
+    },
+    {
+      "word": "särskild",
+      "start": 56.58000183105469,
+      "end": 56.97999954223633
+    },
+    {
+      "word": "plats",
+      "start": 56.97999954223633,
+      "end": 57.31999969482422
+    },
+    {
+      "word": "Därför",
+      "start": 57.31999969482422,
+      "end": 58.31999969482422
+    },
+    {
+      "word": "gick",
+      "start": 58.31999969482422,
+      "end": 58.52000045776367
+    },
+    {
+      "word": "då",
+      "start": 58.52000045776367,
+      "end": 58.7599983215332
+    },
+    {
+      "word": "också",
+      "start": 58.7599983215332,
+      "end": 59.13999938964844
+    },
+    {
+      "word": "den",
+      "start": 59.13999938964844,
+      "end": 59.36000061035156
+    },
+    {
+      "word": "andra",
+      "start": 59.36000061035156,
+      "end": 59.720001220703125
+    },
+    {
+      "word": "lärjungen",
+      "start": 59.720001220703125,
+      "end": 60.279998779296875
+    },
+    {
+      "word": "in",
+      "start": 60.279998779296875,
+      "end": 60.560001373291016
+    },
+    {
+      "word": "han",
+      "start": 60.84000015258789,
+      "end": 61.2400016784668
+    },
+    {
+      "word": "som",
+      "start": 61.2400016784668,
+      "end": 61.459999084472656
+    },
+    {
+      "word": "hade",
+      "start": 61.459999084472656,
+      "end": 61.63999938964844
+    },
+    {
+      "word": "kommit",
+      "start": 61.63999938964844,
+      "end": 61.97999954223633
+    },
+    {
+      "word": "först",
+      "start": 61.97999954223633,
+      "end": 62.31999969482422
+    },
+    {
+      "word": "till",
+      "start": 62.31999969482422,
+      "end": 62.459999084472656
+    },
+    {
+      "word": "graven",
+      "start": 62.459999084472656,
+      "end": 62.81999969482422
+    },
+    {
+      "word": "och",
+      "start": 62.91999816894531,
+      "end": 63.20000076293945
+    },
+    {
+      "word": "han",
+      "start": 63.20000076293945,
+      "end": 63.52000045776367
+    },
+    {
+      "word": "såg",
+      "start": 63.52000045776367,
+      "end": 63.86000061035156
+    },
+    {
+      "word": "och",
+      "start": 63.86000061035156,
+      "end": 64
+    },
+    {
+      "word": "trodde",
+      "start": 64,
+      "end": 64.36000061035156
+    },
+    {
+      "word": "för",
+      "start": 64.94000244140625,
+      "end": 65.05999755859375
+    },
+    {
+      "word": "de",
+      "start": 65.05999755859375,
+      "end": 65.22000122070312
+    },
+    {
+      "word": "hade",
+      "start": 65.22000122070312,
+      "end": 65.4000015258789
+    },
+    {
+      "word": "ännu",
+      "start": 65.4000015258789,
+      "end": 65.76000213623047
+    },
+    {
+      "word": "inte",
+      "start": 65.76000213623047,
+      "end": 65.9800033569336
+    },
+    {
+      "word": "förstått",
+      "start": 65.9800033569336,
+      "end": 66.4800033569336
+    },
+    {
+      "word": "skriften",
+      "start": 66.4800033569336,
+      "end": 66.95999908447266
+    },
+    {
+      "word": "att",
+      "start": 66.95999908447266,
+      "end": 67.22000122070312
+    },
+    {
+      "word": "han",
+      "start": 67.22000122070312,
+      "end": 67.44000244140625
+    },
+    {
+      "word": "skulle",
+      "start": 67.44000244140625,
+      "end": 67.68000030517578
+    },
+    {
+      "word": "uppstå",
+      "start": 67.68000030517578,
+      "end": 68.16000366210938
+    },
+    {
+      "word": "från",
+      "start": 68.16000366210938,
+      "end": 68.37999725341797
+    },
+    {
+      "word": "de",
+      "start": 68.37999725341797,
+      "end": 68.73999786376953
+    },
+    {
+      "word": "döda",
+      "start": 68.73999786376953,
+      "end": 68.91999816894531
+    },
+    {
+      "word": "Därefter",
+      "start": 69.66000366210938,
+      "end": 70.0199966430664
+    },
+    {
+      "word": "gick",
+      "start": 70.0199966430664,
+      "end": 70.27999877929688
+    },
+    {
+      "word": "lärjungarna",
+      "start": 70.27999877929688,
+      "end": 70.9000015258789
+    },
+    {
+      "word": "tillbaka",
+      "start": 70.9000015258789,
+      "end": 71.4000015258789
+    },
+    {
+      "word": "till",
+      "start": 71.4000015258789,
+      "end": 71.5999984741211
+    },
+    {
+      "word": "sina",
+      "start": 71.5999984741211,
+      "end": 71.83999633789062
+    },
+    {
+      "word": "hem",
+      "start": 71.83999633789062,
+      "end": 72.08000183105469
+    },
+    {
+      "word": "igen",
+      "start": 72.08000183105469,
+      "end": 72.41999816894531
+    },
+    {
+      "word": "men",
+      "start": 72.95999908447266,
+      "end": 73.0999984741211
+    },
+    {
+      "word": "Maria",
+      "start": 73.0999984741211,
+      "end": 73.55999755859375
+    },
+    {
+      "word": "stod",
+      "start": 73.55999755859375,
+      "end": 73.9000015258789
+    },
+    {
+      "word": "och",
+      "start": 73.9000015258789,
+      "end": 74.41999816894531
+    },
+    {
+      "word": "grät",
+      "start": 74.41999816894531,
+      "end": 74.5
+    },
+    {
+      "word": "utanför",
+      "start": 74.5,
+      "end": 75.04000091552734
+    },
+    {
+      "word": "graven",
+      "start": 75.04000091552734,
+      "end": 75.66000366210938
+    },
+    {
+      "word": "Och",
+      "start": 75.72000122070312,
+      "end": 76.19999694824219
+    },
+    {
+      "word": "medan",
+      "start": 76.19999694824219,
+      "end": 76.33999633789062
+    },
+    {
+      "word": "hon",
+      "start": 76.33999633789062,
+      "end": 76.5199966430664
+    },
+    {
+      "word": "grät",
+      "start": 76.5199966430664,
+      "end": 76.9800033569336
+    },
+    {
+      "word": "lutade",
+      "start": 76.9800033569336,
+      "end": 77.69999694824219
+    },
+    {
+      "word": "hon",
+      "start": 77.69999694824219,
+      "end": 77.9000015258789
+    },
+    {
+      "word": "sig",
+      "start": 77.9000015258789,
+      "end": 78.12000274658203
+    },
+    {
+      "word": "in",
+      "start": 78.12000274658203,
+      "end": 78.36000061035156
+    },
+    {
+      "word": "i",
+      "start": 78.36000061035156,
+      "end": 78.54000091552734
+    },
+    {
+      "word": "graven",
+      "start": 78.54000091552734,
+      "end": 78.91999816894531
+    },
+    {
+      "word": "och",
+      "start": 78.91999816894531,
+      "end": 79.27999877929688
+    },
+    {
+      "word": "fick",
+      "start": 79.27999877929688,
+      "end": 79.45999908447266
+    },
+    {
+      "word": "se",
+      "start": 79.45999908447266,
+      "end": 79.68000030517578
+    },
+    {
+      "word": "två",
+      "start": 79.68000030517578,
+      "end": 80.0199966430664
+    },
+    {
+      "word": "änglar",
+      "start": 80.0199966430664,
+      "end": 80.45999908447266
+    },
+    {
+      "word": "i",
+      "start": 80.45999908447266,
+      "end": 80.5999984741211
+    },
+    {
+      "word": "vita",
+      "start": 80.5999984741211,
+      "end": 80.95999908447266
+    },
+    {
+      "word": "kläder",
+      "start": 80.95999908447266,
+      "end": 81.36000061035156
+    },
+    {
+      "word": "sitta",
+      "start": 81.36000061035156,
+      "end": 81.80000305175781
+    },
+    {
+      "word": "där",
+      "start": 81.80000305175781,
+      "end": 82.26000213623047
+    },
+    {
+      "word": "Jesu",
+      "start": 82.26000213623047,
+      "end": 82.80000305175781
+    },
+    {
+      "word": "kropp",
+      "start": 82.80000305175781,
+      "end": 83.04000091552734
+    },
+    {
+      "word": "hade",
+      "start": 83.04000091552734,
+      "end": 83.27999877929688
+    },
+    {
+      "word": "legat",
+      "start": 83.27999877929688,
+      "end": 83.77999877929688
+    },
+    {
+      "word": "den",
+      "start": 84.18000030517578,
+      "end": 84.36000061035156
+    },
+    {
+      "word": "ena",
+      "start": 84.36000061035156,
+      "end": 84.73999786376953
+    },
+    {
+      "word": "vid",
+      "start": 84.73999786376953,
+      "end": 84.87999725341797
+    },
+    {
+      "word": "huvudet",
+      "start": 84.87999725341797,
+      "end": 85.44000244140625
+    },
+    {
+      "word": "och",
+      "start": 85.44000244140625,
+      "end": 85.72000122070312
+    },
+    {
+      "word": "den",
+      "start": 85.72000122070312,
+      "end": 86.16000366210938
+    },
+    {
+      "word": "andra",
+      "start": 86.16000366210938,
+      "end": 86.27999877929688
+    },
+    {
+      "word": "vid",
+      "start": 86.27999877929688,
+      "end": 86.45999908447266
+    },
+    {
+      "word": "fötterna",
+      "start": 86.45999908447266,
+      "end": 87.12000274658203
+    },
+    {
+      "word": "Och",
+      "start": 87.31999969482422,
+      "end": 87.5199966430664
+    },
+    {
+      "word": "de",
+      "start": 87.5199966430664,
+      "end": 87.66000366210938
+    },
+    {
+      "word": "sa",
+      "start": 87.66000366210938,
+      "end": 87.87999725341797
+    },
+    {
+      "word": "till",
+      "start": 87.87999725341797,
+      "end": 88.0999984741211
+    },
+    {
+      "word": "henne",
+      "start": 88.0999984741211,
+      "end": 88.54000091552734
+    },
+    {
+      "word": "–",
+      "start": 88.9000015258789,
+      "end": 88.9000015258789
+    },
+    {
+      "word": "Kvinna",
+      "start": 88.9000015258789,
+      "end": 89.26000213623047
+    },
+    {
+      "word": "varför",
+      "start": 89.54000091552734,
+      "end": 89.83999633789062
+    },
+    {
+      "word": "gråter",
+      "start": 89.83999633789062,
+      "end": 90.19999694824219
+    },
+    {
+      "word": "du",
+      "start": 90.19999694824219,
+      "end": 90.44000244140625
+    },
+    {
+      "word": "Hon",
+      "start": 90.77999877929688,
+      "end": 91.13999938964844
+    },
+    {
+      "word": "sa",
+      "start": 91.13999938964844,
+      "end": 91.44000244140625
+    },
+    {
+      "word": "till",
+      "start": 91.44000244140625,
+      "end": 91.63999938964844
+    },
+    {
+      "word": "dem",
+      "start": 91.63999938964844,
+      "end": 91.77999877929688
+    },
+    {
+      "word": "–",
+      "start": 92.05999755859375,
+      "end": 92.18000030517578
+    },
+    {
+      "word": "Därför",
+      "start": 92.18000030517578,
+      "end": 92.33999633789062
+    },
+    {
+      "word": "att",
+      "start": 92.33999633789062,
+      "end": 92.5
+    },
+    {
+      "word": "de",
+      "start": 92.5,
+      "end": 92.54000091552734
+    },
+    {
+      "word": "har",
+      "start": 92.54000091552734,
+      "end": 92.72000122070312
+    },
+    {
+      "word": "tagit",
+      "start": 92.72000122070312,
+      "end": 93.0199966430664
+    },
+    {
+      "word": "bort",
+      "start": 93.0199966430664,
+      "end": 93.27999877929688
+    },
+    {
+      "word": "min",
+      "start": 93.27999877929688,
+      "end": 93.58000183105469
+    },
+    {
+      "word": "Herre",
+      "start": 93.58000183105469,
+      "end": 93.9800033569336
+    },
+    {
+      "word": "och",
+      "start": 94.19999694824219,
+      "end": 94.31999969482422
+    },
+    {
+      "word": "jag",
+      "start": 94.31999969482422,
+      "end": 94.68000030517578
+    },
+    {
+      "word": "vet",
+      "start": 94.68000030517578,
+      "end": 94.77999877929688
+    },
+    {
+      "word": "inte",
+      "start": 94.77999877929688,
+      "end": 94.9800033569336
+    },
+    {
+      "word": "var",
+      "start": 94.9800033569336,
+      "end": 95.13999938964844
+    },
+    {
+      "word": "de",
+      "start": 95.13999938964844,
+      "end": 95.26000213623047
+    },
+    {
+      "word": "har",
+      "start": 95.26000213623047,
+      "end": 95.58000183105469
+    },
+    {
+      "word": "lagt",
+      "start": 95.58000183105469,
+      "end": 95.68000030517578
+    },
+    {
+      "word": "honom",
+      "start": 95.68000030517578,
+      "end": 96
+    },
+    {
+      "word": "Och",
+      "start": 96.4800033569336,
+      "end": 96.62000274658203
+    },
+    {
+      "word": "när",
+      "start": 96.62000274658203,
+      "end": 96.72000122070312
+    },
+    {
+      "word": "hon",
+      "start": 96.72000122070312,
+      "end": 96.94000244140625
+    },
+    {
+      "word": "sa",
+      "start": 96.94000244140625,
+      "end": 97.19999694824219
+    },
+    {
+      "word": "detta",
+      "start": 97.19999694824219,
+      "end": 97.63999938964844
+    },
+    {
+      "word": "vände",
+      "start": 97.63999938964844,
+      "end": 98.26000213623047
+    },
+    {
+      "word": "hon",
+      "start": 98.26000213623047,
+      "end": 98.45999908447266
+    },
+    {
+      "word": "sig",
+      "start": 98.45999908447266,
+      "end": 98.72000122070312
+    },
+    {
+      "word": "om",
+      "start": 98.72000122070312,
+      "end": 99.05999755859375
+    },
+    {
+      "word": "och",
+      "start": 99.05999755859375,
+      "end": 99.36000061035156
+    },
+    {
+      "word": "fick",
+      "start": 99.36000061035156,
+      "end": 99.5199966430664
+    },
+    {
+      "word": "se",
+      "start": 99.5199966430664,
+      "end": 99.76000213623047
+    },
+    {
+      "word": "Jesus",
+      "start": 99.76000213623047,
+      "end": 100.31999969482422
+    },
+    {
+      "word": "stå",
+      "start": 100.31999969482422,
+      "end": 100.5999984741211
+    },
+    {
+      "word": "där",
+      "start": 100.5999984741211,
+      "end": 100.86000061035156
+    },
+    {
+      "word": "men",
+      "start": 101.26000213623047,
+      "end": 101.31999969482422
+    },
+    {
+      "word": "hon",
+      "start": 101.31999969482422,
+      "end": 101.63999938964844
+    },
+    {
+      "word": "visste",
+      "start": 101.63999938964844,
+      "end": 101.80000305175781
+    },
+    {
+      "word": "inte",
+      "start": 101.80000305175781,
+      "end": 101.9800033569336
+    },
+    {
+      "word": "att",
+      "start": 101.9800033569336,
+      "end": 102.12000274658203
+    },
+    {
+      "word": "det",
+      "start": 102.12000274658203,
+      "end": 102.22000122070312
+    },
+    {
+      "word": "var",
+      "start": 102.22000122070312,
+      "end": 102.37999725341797
+    },
+    {
+      "word": "Jesus",
+      "start": 102.37999725341797,
+      "end": 102.87999725341797
+    },
+    {
+      "word": "Jesus",
+      "start": 103.62000274658203,
+      "end": 104.04000091552734
+    },
+    {
+      "word": "sa",
+      "start": 104.04000091552734,
+      "end": 104.30000305175781
+    },
+    {
+      "word": "till",
+      "start": 104.30000305175781,
+      "end": 104.54000091552734
+    },
+    {
+      "word": "henne",
+      "start": 104.54000091552734,
+      "end": 104.68000030517578
+    },
+    {
+      "word": "–",
+      "start": 105.05999755859375,
+      "end": 105.12000274658203
+    },
+    {
+      "word": "Tinna",
+      "start": 105.12000274658203,
+      "end": 105.54000091552734
+    },
+    {
+      "word": "varför",
+      "start": 106.0999984741211,
+      "end": 106.23999786376953
+    },
+    {
+      "word": "gråter",
+      "start": 106.23999786376953,
+      "end": 106.5999984741211
+    },
+    {
+      "word": "du",
+      "start": 106.5999984741211,
+      "end": 106.86000061035156
+    },
+    {
+      "word": "Vem",
+      "start": 107.23999786376953,
+      "end": 107.4000015258789
+    },
+    {
+      "word": "söker",
+      "start": 107.4000015258789,
+      "end": 107.77999877929688
+    },
+    {
+      "word": "du",
+      "start": 107.77999877929688,
+      "end": 108.0199966430664
+    },
+    {
+      "word": "Hon",
+      "start": 108.33999633789062,
+      "end": 108.5999984741211
+    },
+    {
+      "word": "trodde",
+      "start": 108.5999984741211,
+      "end": 109
+    },
+    {
+      "word": "att",
+      "start": 109,
+      "end": 109.18000030517578
+    },
+    {
+      "word": "det",
+      "start": 109.18000030517578,
+      "end": 109.23999786376953
+    },
+    {
+      "word": "var",
+      "start": 109.23999786376953,
+      "end": 109.37999725341797
+    },
+    {
+      "word": "trädgårdsmästaren",
+      "start": 109.37999725341797,
+      "end": 110.36000061035156
+    },
+    {
+      "word": "och",
+      "start": 110.36000061035156,
+      "end": 110.66000366210938
+    },
+    {
+      "word": "sa",
+      "start": 110.66000366210938,
+      "end": 110.9000015258789
+    },
+    {
+      "word": "till",
+      "start": 110.9000015258789,
+      "end": 111.13999938964844
+    },
+    {
+      "word": "honom",
+      "start": 111.13999938964844,
+      "end": 111.36000061035156
+    },
+    {
+      "word": "–",
+      "start": 111.36000061035156,
+      "end": 111.9800033569336
+    },
+    {
+      "word": "Herre",
+      "start": 111.9800033569336,
+      "end": 112.22000122070312
+    },
+    {
+      "word": "om",
+      "start": 112.4000015258789,
+      "end": 112.4800033569336
+    },
+    {
+      "word": "du",
+      "start": 112.4800033569336,
+      "end": 112.55999755859375
+    },
+    {
+      "word": "har",
+      "start": 112.55999755859375,
+      "end": 112.72000122070312
+    },
+    {
+      "word": "burit",
+      "start": 112.72000122070312,
+      "end": 113.0199966430664
+    },
+    {
+      "word": "bort",
+      "start": 113.0199966430664,
+      "end": 113.27999877929688
+    },
+    {
+      "word": "honom",
+      "start": 113.27999877929688,
+      "end": 113.55999755859375
+    },
+    {
+      "word": "så",
+      "start": 113.81999969482422,
+      "end": 114.0199966430664
+    },
+    {
+      "word": "säg",
+      "start": 114.0199966430664,
+      "end": 114.18000030517578
+    },
+    {
+      "word": "mig",
+      "start": 114.18000030517578,
+      "end": 114.4000015258789
+    },
+    {
+      "word": "var",
+      "start": 114.4000015258789,
+      "end": 114.5999984741211
+    },
+    {
+      "word": "du",
+      "start": 114.5999984741211,
+      "end": 114.69999694824219
+    },
+    {
+      "word": "har",
+      "start": 114.69999694824219,
+      "end": 114.87999725341797
+    },
+    {
+      "word": "lagt",
+      "start": 114.87999725341797,
+      "end": 115.08000183105469
+    },
+    {
+      "word": "honom",
+      "start": 115.08000183105469,
+      "end": 115.41999816894531
+    },
+    {
+      "word": "så",
+      "start": 115.76000213623047,
+      "end": 115.87999725341797
+    },
+    {
+      "word": "att",
+      "start": 115.87999725341797,
+      "end": 115.95999908447266
+    },
+    {
+      "word": "jag",
+      "start": 115.95999908447266,
+      "end": 116.12000274658203
+    },
+    {
+      "word": "kan",
+      "start": 116.12000274658203,
+      "end": 116.36000061035156
+    },
+    {
+      "word": "hämta",
+      "start": 116.36000061035156,
+      "end": 116.66000366210938
+    },
+    {
+      "word": "honom",
+      "start": 116.66000366210938,
+      "end": 117.19999694824219
+    },
+    {
+      "word": "Jesus",
+      "start": 117.5199966430664,
+      "end": 118.04000091552734
+    },
+    {
+      "word": "sa",
+      "start": 118.04000091552734,
+      "end": 118.30000305175781
+    },
+    {
+      "word": "till",
+      "start": 118.30000305175781,
+      "end": 118.4800033569336
+    },
+    {
+      "word": "henne",
+      "start": 118.4800033569336,
+      "end": 118.62000274658203
+    },
+    {
+      "word": "–",
+      "start": 119,
+      "end": 119.0999984741211
+    },
+    {
+      "word": "Maria",
+      "start": 119.0999984741211,
+      "end": 119.41999816894531
+    },
+    {
+      "word": "Hon",
+      "start": 119.83999633789062,
+      "end": 120.0999984741211
+    },
+    {
+      "word": "vände",
+      "start": 120.0999984741211,
+      "end": 120.36000061035156
+    },
+    {
+      "word": "sig",
+      "start": 120.36000061035156,
+      "end": 120.62000274658203
+    },
+    {
+      "word": "om",
+      "start": 120.62000274658203,
+      "end": 120.80000305175781
+    },
+    {
+      "word": "och",
+      "start": 120.80000305175781,
+      "end": 121
+    },
+    {
+      "word": "sa",
+      "start": 121,
+      "end": 121.0999984741211
+    },
+    {
+      "word": "till",
+      "start": 121.0999984741211,
+      "end": 121.4000015258789
+    },
+    {
+      "word": "honom",
+      "start": 121.4000015258789,
+      "end": 121.54000091552734
+    },
+    {
+      "word": "–",
+      "start": 121.9000015258789,
+      "end": 122
+    },
+    {
+      "word": "Rabuni",
+      "start": 122,
+      "end": 122.41999816894531
+    },
+    {
+      "word": "det",
+      "start": 122.68000030517578,
+      "end": 122.80000305175781
+    },
+    {
+      "word": "betyder",
+      "start": 122.80000305175781,
+      "end": 123.0999984741211
+    },
+    {
+      "word": "mästare",
+      "start": 123.0999984741211,
+      "end": 123.62000274658203
+    },
+    {
+      "word": "Jesus",
+      "start": 124.26000213623047,
+      "end": 124.66000366210938
+    },
+    {
+      "word": "sa",
+      "start": 124.66000366210938,
+      "end": 124.86000061035156
+    },
+    {
+      "word": "till",
+      "start": 124.86000061035156,
+      "end": 125.16000366210938
+    },
+    {
+      "word": "henne",
+      "start": 125.16000366210938,
+      "end": 125.23999786376953
+    },
+    {
+      "word": "–",
+      "start": 125.54000091552734,
+      "end": 125.77999877929688
+    },
+    {
+      "word": "Rör",
+      "start": 125.77999877929688,
+      "end": 125.87999725341797
+    },
+    {
+      "word": "inte",
+      "start": 125.87999725341797,
+      "end": 126.13999938964844
+    },
+    {
+      "word": "vid",
+      "start": 126.13999938964844,
+      "end": 126.41999816894531
+    },
+    {
+      "word": "mig",
+      "start": 126.41999816894531,
+      "end": 126.62000274658203
+    },
+    {
+      "word": "för",
+      "start": 126.9800033569336,
+      "end": 127.05999755859375
+    },
+    {
+      "word": "jag",
+      "start": 127.05999755859375,
+      "end": 127.16000366210938
+    },
+    {
+      "word": "har",
+      "start": 127.16000366210938,
+      "end": 127.36000061035156
+    },
+    {
+      "word": "ännu",
+      "start": 127.36000061035156,
+      "end": 127.68000030517578
+    },
+    {
+      "word": "inte",
+      "start": 127.68000030517578,
+      "end": 127.94000244140625
+    },
+    {
+      "word": "farit",
+      "start": 127.94000244140625,
+      "end": 128.27999877929688
+    },
+    {
+      "word": "upp",
+      "start": 128.27999877929688,
+      "end": 128.5399932861328
+    },
+    {
+      "word": "till",
+      "start": 128.5399932861328,
+      "end": 128.72000122070312
+    },
+    {
+      "word": "min",
+      "start": 128.72000122070312,
+      "end": 129.0399932861328
+    },
+    {
+      "word": "fader",
+      "start": 129.0399932861328,
+      "end": 129.44000244140625
+    },
+    {
+      "word": "Men",
+      "start": 130.05999755859375,
+      "end": 130.27999877929688
+    },
+    {
+      "word": "gå",
+      "start": 130.27999877929688,
+      "end": 130.47999572753906
+    },
+    {
+      "word": "till",
+      "start": 130.47999572753906,
+      "end": 130.67999267578125
+    },
+    {
+      "word": "mina",
+      "start": 130.67999267578125,
+      "end": 130.94000244140625
+    },
+    {
+      "word": "bröder",
+      "start": 130.94000244140625,
+      "end": 131.3800048828125
+    },
+    {
+      "word": "och",
+      "start": 131.3800048828125,
+      "end": 131.67999267578125
+    },
+    {
+      "word": "säg",
+      "start": 131.67999267578125,
+      "end": 131.86000061035156
+    },
+    {
+      "word": "till",
+      "start": 131.86000061035156,
+      "end": 132.05999755859375
+    },
+    {
+      "word": "dem",
+      "start": 132.05999755859375,
+      "end": 132.24000549316406
+    },
+    {
+      "word": "–",
+      "start": 132.77999877929688,
+      "end": 132.8000030517578
+    },
+    {
+      "word": "Jag",
+      "start": 132.8000030517578,
+      "end": 133.10000610351562
+    },
+    {
+      "word": "far",
+      "start": 133.10000610351562,
+      "end": 133.33999633789062
+    },
+    {
+      "word": "upp",
+      "start": 133.33999633789062,
+      "end": 133.5
+    },
+    {
+      "word": "till",
+      "start": 133.5,
+      "end": 133.6199951171875
+    },
+    {
+      "word": "min",
+      "start": 133.6199951171875,
+      "end": 133.86000061035156
+    },
+    {
+      "word": "fader",
+      "start": 133.86000061035156,
+      "end": 134.1999969482422
+    },
+    {
+      "word": "och",
+      "start": 134.1999969482422,
+      "end": 134.5800018310547
+    },
+    {
+      "word": "er",
+      "start": 134.5800018310547,
+      "end": 134.89999389648438
+    },
+    {
+      "word": "fader",
+      "start": 134.89999389648438,
+      "end": 135.3000030517578
+    },
+    {
+      "word": "och",
+      "start": 135.3000030517578,
+      "end": 135.6199951171875
+    },
+    {
+      "word": "till",
+      "start": 135.6199951171875,
+      "end": 135.82000732421875
+    },
+    {
+      "word": "min",
+      "start": 135.82000732421875,
+      "end": 136.0399932861328
+    },
+    {
+      "word": "Gud",
+      "start": 136.0399932861328,
+      "end": 136.27999877929688
+    },
+    {
+      "word": "och",
+      "start": 136.27999877929688,
+      "end": 136.60000610351562
+    },
+    {
+      "word": "er",
+      "start": 136.60000610351562,
+      "end": 136.9199981689453
+    },
+    {
+      "word": "dud",
+      "start": 136.9199981689453,
+      "end": 137.17999267578125
+    },
+    {
+      "word": "Maria",
+      "start": 137.74000549316406,
+      "end": 138.25999450683594
+    },
+    {
+      "word": "Magdalena",
+      "start": 138.25999450683594,
+      "end": 138.82000732421875
+    },
+    {
+      "word": "kom",
+      "start": 138.82000732421875,
+      "end": 139.3000030517578
+    },
+    {
+      "word": "och",
+      "start": 139.3000030517578,
+      "end": 139.5
+    },
+    {
+      "word": "berättade",
+      "start": 139.5,
+      "end": 140
+    },
+    {
+      "word": "för",
+      "start": 140,
+      "end": 140.22000122070312
+    },
+    {
+      "word": "lärjungarna",
+      "start": 140.22000122070312,
+      "end": 140.75999450683594
+    },
+    {
+      "word": "att",
+      "start": 140.75999450683594,
+      "end": 141.02000427246094
+    },
+    {
+      "word": "hon",
+      "start": 141.02000427246094,
+      "end": 141.17999267578125
+    },
+    {
+      "word": "hade",
+      "start": 141.17999267578125,
+      "end": 141.47999572753906
+    },
+    {
+      "word": "sett",
+      "start": 141.47999572753906,
+      "end": 141.77999877929688
+    },
+    {
+      "word": "Herren",
+      "start": 141.77999877929688,
+      "end": 142.16000366210938
+    },
+    {
+      "word": "och",
+      "start": 142.16000366210938,
+      "end": 142.5
+    },
+    {
+      "word": "att",
+      "start": 142.5,
+      "end": 142.75999450683594
+    },
+    {
+      "word": "han",
+      "start": 142.75999450683594,
+      "end": 142.75999450683594
+    },
+    {
+      "word": "hade",
+      "start": 142.75999450683594,
+      "end": 143.0399932861328
+    },
+    {
+      "word": "sagt",
+      "start": 143.0399932861328,
+      "end": 143.3000030517578
+    },
+    {
+      "word": "detta",
+      "start": 143.3000030517578,
+      "end": 143.6999969482422
+    },
+    {
+      "word": "till",
+      "start": 143.6999969482422,
+      "end": 144
+    },
+    {
+      "word": "henne",
+      "start": 144,
+      "end": 144.16000366210938
+    },
+    {
+      "word": "Senare",
+      "start": 144.67999267578125,
+      "end": 145.3000030517578
+    },
+    {
+      "word": "samma",
+      "start": 145.3000030517578,
+      "end": 145.6999969482422
+    },
+    {
+      "word": "dag",
+      "start": 145.6999969482422,
+      "end": 146.0399932861328
+    },
+    {
+      "word": "på",
+      "start": 146.0399932861328,
+      "end": 146.5
+    },
+    {
+      "word": "kvällen",
+      "start": 146.5,
+      "end": 146.8800048828125
+    },
+    {
+      "word": "den",
+      "start": 147.36000061035156,
+      "end": 147.5399932861328
+    },
+    {
+      "word": "första",
+      "start": 147.5399932861328,
+      "end": 147.89999389648438
+    },
+    {
+      "word": "i",
+      "start": 147.89999389648438,
+      "end": 148.27999877929688
+    },
+    {
+      "word": "veckan",
+      "start": 148.27999877929688,
+      "end": 148.5399932861328
+    },
+    {
+      "word": "då",
+      "start": 148.97999572753906,
+      "end": 149.1199951171875
+    },
+    {
+      "word": "lärjungarna",
+      "start": 149.1199951171875,
+      "end": 149.6999969482422
+    },
+    {
+      "word": "av",
+      "start": 149.6999969482422,
+      "end": 149.86000061035156
+    },
+    {
+      "word": "rädsla",
+      "start": 149.86000061035156,
+      "end": 150.3000030517578
+    },
+    {
+      "word": "för",
+      "start": 150.3000030517578,
+      "end": 150.4600067138672
+    },
+    {
+      "word": "judarna",
+      "start": 150.4600067138672,
+      "end": 150.89999389648438
+    },
+    {
+      "word": "var",
+      "start": 150.89999389648438,
+      "end": 151.27999877929688
+    },
+    {
+      "word": "samlade",
+      "start": 151.27999877929688,
+      "end": 151.72000122070312
+    },
+    {
+      "word": "bakom",
+      "start": 151.72000122070312,
+      "end": 152.24000549316406
+    },
+    {
+      "word": "låsta",
+      "start": 152.24000549316406,
+      "end": 152.67999267578125
+    },
+    {
+      "word": "dörrar",
+      "start": 152.67999267578125,
+      "end": 153.44000244140625
+    },
+    {
+      "word": "kom",
+      "start": 153.74000549316406,
+      "end": 153.82000732421875
+    },
+    {
+      "word": "Jesus",
+      "start": 153.82000732421875,
+      "end": 154.3800048828125
+    },
+    {
+      "word": "och",
+      "start": 154.3800048828125,
+      "end": 154.82000732421875
+    },
+    {
+      "word": "stod",
+      "start": 154.82000732421875,
+      "end": 155.02000427246094
+    },
+    {
+      "word": "mitt",
+      "start": 155.02000427246094,
+      "end": 155.36000061035156
+    },
+    {
+      "word": "ibland",
+      "start": 155.36000061035156,
+      "end": 155.74000549316406
+    },
+    {
+      "word": "dem",
+      "start": 155.74000549316406,
+      "end": 155.97999572753906
+    },
+    {
+      "word": "och",
+      "start": 155.97999572753906,
+      "end": 156.4199981689453
+    },
+    {
+      "word": "sa",
+      "start": 156.4199981689453,
+      "end": 156.55999755859375
+    },
+    {
+      "word": "till",
+      "start": 156.55999755859375,
+      "end": 156.8000030517578
+    },
+    {
+      "word": "dem",
+      "start": 156.8000030517578,
+      "end": 156.9600067138672
+    },
+    {
+      "word": "–",
+      "start": 157.33999633789062,
+      "end": 157.52000427246094
+    },
+    {
+      "word": "Frid",
+      "start": 157.52000427246094,
+      "end": 157.6199951171875
+    },
+    {
+      "word": "var",
+      "start": 157.6199951171875,
+      "end": 157.8000030517578
+    },
+    {
+      "word": "med",
+      "start": 157.8000030517578,
+      "end": 158.1199951171875
+    },
+    {
+      "word": "er",
+      "start": 158.1199951171875,
+      "end": 158.36000061035156
+    },
+    {
+      "word": "Och",
+      "start": 158.86000061035156,
+      "end": 159.13999938964844
+    },
+    {
+      "word": "när",
+      "start": 159.13999938964844,
+      "end": 159.16000366210938
+    },
+    {
+      "word": "han",
+      "start": 159.16000366210938,
+      "end": 159.3000030517578
+    },
+    {
+      "word": "hade",
+      "start": 159.3000030517578,
+      "end": 159.74000549316406
+    },
+    {
+      "word": "sagt",
+      "start": 159.74000549316406,
+      "end": 159.83999633789062
+    },
+    {
+      "word": "detta",
+      "start": 159.83999633789062,
+      "end": 160.24000549316406
+    },
+    {
+      "word": "visade",
+      "start": 160.24000549316406,
+      "end": 161
+    },
+    {
+      "word": "han",
+      "start": 161,
+      "end": 161.1999969482422
+    },
+    {
+      "word": "dem",
+      "start": 161.1999969482422,
+      "end": 161.44000244140625
+    },
+    {
+      "word": "sina",
+      "start": 161.44000244140625,
+      "end": 161.6999969482422
+    },
+    {
+      "word": "händer",
+      "start": 161.6999969482422,
+      "end": 162.0800018310547
+    },
+    {
+      "word": "och",
+      "start": 162.0800018310547,
+      "end": 162.3800048828125
+    },
+    {
+      "word": "sin",
+      "start": 162.3800048828125,
+      "end": 162.63999938964844
+    },
+    {
+      "word": "sida",
+      "start": 162.63999938964844,
+      "end": 162.97999572753906
+    },
+    {
+      "word": "Då",
+      "start": 163.5800018310547,
+      "end": 163.72000122070312
+    },
+    {
+      "word": "blev",
+      "start": 163.72000122070312,
+      "end": 163.94000244140625
+    },
+    {
+      "word": "lärjungarna",
+      "start": 163.94000244140625,
+      "end": 164.55999755859375
+    },
+    {
+      "word": "glada",
+      "start": 164.55999755859375,
+      "end": 165.10000610351562
+    },
+    {
+      "word": "när",
+      "start": 165.10000610351562,
+      "end": 165.39999389648438
+    },
+    {
+      "word": "de",
+      "start": 165.39999389648438,
+      "end": 165.55999755859375
+    },
+    {
+      "word": "såg",
+      "start": 165.55999755859375,
+      "end": 166.0399932861328
+    },
+    {
+      "word": "Herren",
+      "start": 166.0399932861328,
+      "end": 166.1999969482422
+    },
+    {
+      "word": "Då",
+      "start": 166.77999877929688,
+      "end": 167.05999755859375
+    },
+    {
+      "word": "sa",
+      "start": 167.05999755859375,
+      "end": 167.25999450683594
+    },
+    {
+      "word": "Jesus",
+      "start": 167.25999450683594,
+      "end": 167.77999877929688
+    },
+    {
+      "word": "än",
+      "start": 167.77999877929688,
+      "end": 168.16000366210938
+    },
+    {
+      "word": "en",
+      "start": 168.16000366210938,
+      "end": 168.16000366210938
+    },
+    {
+      "word": "gång",
+      "start": 168.16000366210938,
+      "end": 168.25999450683594
+    },
+    {
+      "word": "till",
+      "start": 168.25999450683594,
+      "end": 168.63999938964844
+    },
+    {
+      "word": "dem",
+      "start": 168.63999938964844,
+      "end": 168.75999450683594
+    },
+    {
+      "word": "–",
+      "start": 169.24000549316406,
+      "end": 169.39999389648438
+    },
+    {
+      "word": "Frid",
+      "start": 169.39999389648438,
+      "end": 169.52000427246094
+    },
+    {
+      "word": "var",
+      "start": 169.52000427246094,
+      "end": 169.67999267578125
+    },
+    {
+      "word": "med",
+      "start": 169.67999267578125,
+      "end": 169.83999633789062
+    },
+    {
+      "word": "er",
+      "start": 169.83999633789062,
+      "end": 170.22000122070312
+    },
+    {
+      "word": "Såsom",
+      "start": 170.66000366210938,
+      "end": 171.05999755859375
+    },
+    {
+      "word": "fadern",
+      "start": 171.05999755859375,
+      "end": 171.5
+    },
+    {
+      "word": "har",
+      "start": 171.5,
+      "end": 171.9199981689453
+    },
+    {
+      "word": "sänt",
+      "start": 171.9199981689453,
+      "end": 171.9199981689453
+    },
+    {
+      "word": "mig",
+      "start": 171.9199981689453,
+      "end": 172.22000122070312
+    },
+    {
+      "word": "så",
+      "start": 172.22000122070312,
+      "end": 172.4600067138672
+    },
+    {
+      "word": "sänder",
+      "start": 172.4600067138672,
+      "end": 172.6199951171875
+    },
+    {
+      "word": "också",
+      "start": 172.6199951171875,
+      "end": 173.0800018310547
+    },
+    {
+      "word": "jag",
+      "start": 173.0800018310547,
+      "end": 173.44000244140625
+    },
+    {
+      "word": "er",
+      "start": 173.44000244140625,
+      "end": 173.72000122070312
+    },
+    {
+      "word": "När",
+      "start": 174.22000122070312,
+      "end": 174.3800048828125
+    },
+    {
+      "word": "han",
+      "start": 174.3800048828125,
+      "end": 174.52000427246094
+    },
+    {
+      "word": "hade",
+      "start": 174.52000427246094,
+      "end": 174.77999877929688
+    },
+    {
+      "word": "sagt",
+      "start": 174.77999877929688,
+      "end": 175.0399932861328
+    },
+    {
+      "word": "detta",
+      "start": 175.0399932861328,
+      "end": 175.44000244140625
+    },
+    {
+      "word": "andades",
+      "start": 175.44000244140625,
+      "end": 176.17999267578125
+    },
+    {
+      "word": "han",
+      "start": 176.17999267578125,
+      "end": 176.36000061035156
+    },
+    {
+      "word": "på",
+      "start": 176.36000061035156,
+      "end": 176.6199951171875
+    },
+    {
+      "word": "dem",
+      "start": 176.6199951171875,
+      "end": 176.8000030517578
+    },
+    {
+      "word": "och",
+      "start": 176.8000030517578,
+      "end": 177.0800018310547
+    },
+    {
+      "word": "sa",
+      "start": 177.0800018310547,
+      "end": 177.16000366210938
+    },
+    {
+      "word": "till",
+      "start": 177.16000366210938,
+      "end": 177.39999389648438
+    },
+    {
+      "word": "dem",
+      "start": 177.39999389648438,
+      "end": 177.5800018310547
+    },
+    {
+      "word": "–",
+      "start": 178.05999755859375,
+      "end": 178.05999755859375
+    },
+    {
+      "word": "Ta",
+      "start": 178.05999755859375,
+      "end": 178.0800018310547
+    },
+    {
+      "word": "emot",
+      "start": 178.0800018310547,
+      "end": 178.44000244140625
+    },
+    {
+      "word": "den",
+      "start": 178.44000244140625,
+      "end": 178.67999267578125
+    },
+    {
+      "word": "helige",
+      "start": 178.67999267578125,
+      "end": 179.0800018310547
+    },
+    {
+      "word": "ande",
+      "start": 179.0800018310547,
+      "end": 179.6999969482422
+    },
+    {
+      "word": "Om",
+      "start": 180,
+      "end": 180.0800018310547
+    },
+    {
+      "word": "ni",
+      "start": 180.0800018310547,
+      "end": 180.27999877929688
+    },
+    {
+      "word": "förlåter",
+      "start": 180.27999877929688,
+      "end": 180.74000549316406
+    },
+    {
+      "word": "någon",
+      "start": 180.74000549316406,
+      "end": 181.16000366210938
+    },
+    {
+      "word": "hans",
+      "start": 181.16000366210938,
+      "end": 181.44000244140625
+    },
+    {
+      "word": "synder",
+      "start": 181.44000244140625,
+      "end": 181.9199981689453
+    },
+    {
+      "word": "så",
+      "start": 181.9199981689453,
+      "end": 182.27999877929688
+    },
+    {
+      "word": "är",
+      "start": 182.27999877929688,
+      "end": 182.44000244140625
+    },
+    {
+      "word": "de",
+      "start": 182.44000244140625,
+      "end": 182.60000610351562
+    },
+    {
+      "word": "förlåtna",
+      "start": 182.60000610351562,
+      "end": 183.16000366210938
+    },
+    {
+      "word": "och",
+      "start": 183.5399932861328,
+      "end": 183.67999267578125
+    },
+    {
+      "word": "om",
+      "start": 183.67999267578125,
+      "end": 183.82000732421875
+    },
+    {
+      "word": "ni",
+      "start": 183.82000732421875,
+      "end": 183.97999572753906
+    },
+    {
+      "word": "binder",
+      "start": 183.97999572753906,
+      "end": 184.33999633789062
+    },
+    {
+      "word": "någon",
+      "start": 184.33999633789062,
+      "end": 184.8000030517578
+    },
+    {
+      "word": "i",
+      "start": 184.8000030517578,
+      "end": 185.02000427246094
+    },
+    {
+      "word": "hans",
+      "start": 185.02000427246094,
+      "end": 185.3000030517578
+    },
+    {
+      "word": "synder",
+      "start": 185.3000030517578,
+      "end": 185.8000030517578
+    },
+    {
+      "word": "så",
+      "start": 185.8000030517578,
+      "end": 186.1199951171875
+    },
+    {
+      "word": "är",
+      "start": 186.1199951171875,
+      "end": 186.24000549316406
+    },
+    {
+      "word": "han",
+      "start": 186.24000549316406,
+      "end": 186.44000244140625
+    },
+    {
+      "word": "bunden",
+      "start": 186.44000244140625,
+      "end": 186.94000244140625
+    },
+    {
+      "word": "Men",
+      "start": 187.47999572753906,
+      "end": 187.63999938964844
+    },
+    {
+      "word": "Tomas",
+      "start": 187.63999938964844,
+      "end": 188.17999267578125
+    },
+    {
+      "word": "en",
+      "start": 188.3800048828125,
+      "end": 188.39999389648438
+    },
+    {
+      "word": "av",
+      "start": 188.39999389648438,
+      "end": 188.47999572753906
+    },
+    {
+      "word": "de",
+      "start": 188.47999572753906,
+      "end": 188.74000549316406
+    },
+    {
+      "word": "tolv",
+      "start": 188.74000549316406,
+      "end": 189.0800018310547
+    },
+    {
+      "word": "som",
+      "start": 189.0800018310547,
+      "end": 189.4600067138672
+    },
+    {
+      "word": "kallades",
+      "start": 189.4600067138672,
+      "end": 189.89999389648438
+    },
+    {
+      "word": "Tvillingen",
+      "start": 189.89999389648438,
+      "end": 190.55999755859375
+    },
+    {
+      "word": "var",
+      "start": 190.82000732421875,
+      "end": 190.8800048828125
+    },
+    {
+      "word": "inte",
+      "start": 190.8800048828125,
+      "end": 191.17999267578125
+    },
+    {
+      "word": "med",
+      "start": 191.17999267578125,
+      "end": 191.4600067138672
+    },
+    {
+      "word": "dem",
+      "start": 191.4600067138672,
+      "end": 191.66000366210938
+    },
+    {
+      "word": "när",
+      "start": 191.66000366210938,
+      "end": 191.75999450683594
+    },
+    {
+      "word": "Jesus",
+      "start": 191.75999450683594,
+      "end": 192.16000366210938
+    },
+    {
+      "word": "kom",
+      "start": 192.16000366210938,
+      "end": 192.4600067138672
+    },
+    {
+      "word": "Då",
+      "start": 192.4600067138672,
+      "end": 193.1199951171875
+    },
+    {
+      "word": "sa",
+      "start": 193.1199951171875,
+      "end": 193.44000244140625
+    },
+    {
+      "word": "de",
+      "start": 193.44000244140625,
+      "end": 193.63999938964844
+    },
+    {
+      "word": "andra",
+      "start": 193.63999938964844,
+      "end": 194.0800018310547
+    },
+    {
+      "word": "lärjungarna",
+      "start": 194.0800018310547,
+      "end": 194.6199951171875
+    },
+    {
+      "word": "till",
+      "start": 194.6199951171875,
+      "end": 195
+    },
+    {
+      "word": "honom",
+      "start": 195,
+      "end": 195.24000549316406
+    },
+    {
+      "word": "–",
+      "start": 195.5800018310547,
+      "end": 195.5800018310547
+    },
+    {
+      "word": "Vi",
+      "start": 195.5800018310547,
+      "end": 195.67999267578125
+    },
+    {
+      "word": "har",
+      "start": 195.67999267578125,
+      "end": 195.9199981689453
+    },
+    {
+      "word": "sett",
+      "start": 195.9199981689453,
+      "end": 196.0800018310547
+    },
+    {
+      "word": "Herren",
+      "start": 196.0800018310547,
+      "end": 196.47999572753906
+    },
+    {
+      "word": "Men",
+      "start": 196.6199951171875,
+      "end": 197.22000122070312
+    },
+    {
+      "word": "han",
+      "start": 197.22000122070312,
+      "end": 197.44000244140625
+    },
+    {
+      "word": "sa",
+      "start": 197.44000244140625,
+      "end": 197.66000366210938
+    },
+    {
+      "word": "till",
+      "start": 197.66000366210938,
+      "end": 197.83999633789062
+    },
+    {
+      "word": "dem",
+      "start": 197.83999633789062,
+      "end": 198
+    },
+    {
+      "word": "–",
+      "start": 198.36000061035156,
+      "end": 198.3800048828125
+    },
+    {
+      "word": "Om",
+      "start": 198.3800048828125,
+      "end": 198.5
+    },
+    {
+      "word": "jag",
+      "start": 198.5,
+      "end": 198.72000122070312
+    },
+    {
+      "word": "inte",
+      "start": 198.72000122070312,
+      "end": 199.0399932861328
+    },
+    {
+      "word": "får",
+      "start": 199.0399932861328,
+      "end": 199.22000122070312
+    },
+    {
+      "word": "se",
+      "start": 199.22000122070312,
+      "end": 199.5
+    },
+    {
+      "word": "hålen",
+      "start": 199.5,
+      "end": 199.97999572753906
+    },
+    {
+      "word": "efter",
+      "start": 199.97999572753906,
+      "end": 200.3000030517578
+    },
+    {
+      "word": "spikarna",
+      "start": 200.3000030517578,
+      "end": 200.83999633789062
+    },
+    {
+      "word": "i",
+      "start": 200.83999633789062,
+      "end": 201
+    },
+    {
+      "word": "hans",
+      "start": 201,
+      "end": 201.24000549316406
+    },
+    {
+      "word": "händer",
+      "start": 201.24000549316406,
+      "end": 201.55999755859375
+    },
+    {
+      "word": "och",
+      "start": 201.55999755859375,
+      "end": 201.89999389648438
+    },
+    {
+      "word": "sticka",
+      "start": 201.89999389648438,
+      "end": 202.27999877929688
+    },
+    {
+      "word": "mitt",
+      "start": 202.27999877929688,
+      "end": 202.5
+    },
+    {
+      "word": "finger",
+      "start": 202.5,
+      "end": 202.86000061035156
+    },
+    {
+      "word": "i",
+      "start": 202.86000061035156,
+      "end": 203.16000366210938
+    },
+    {
+      "word": "hålen",
+      "start": 203.16000366210938,
+      "end": 203.5
+    },
+    {
+      "word": "efter",
+      "start": 203.5,
+      "end": 203.8000030517578
+    },
+    {
+      "word": "spikarna",
+      "start": 203.8000030517578,
+      "end": 204.4199981689453
+    },
+    {
+      "word": "och",
+      "start": 204.6199951171875,
+      "end": 205.22000122070312
+    },
+    {
+      "word": "sticka",
+      "start": 205.22000122070312,
+      "end": 205.6199951171875
+    },
+    {
+      "word": "min",
+      "start": 205.6199951171875,
+      "end": 205.8800048828125
+    },
+    {
+      "word": "hand",
+      "start": 205.8800048828125,
+      "end": 206.1199951171875
+    },
+    {
+      "word": "i",
+      "start": 206.1199951171875,
+      "end": 206.32000732421875
+    },
+    {
+      "word": "hans",
+      "start": 206.32000732421875,
+      "end": 206.55999755859375
+    },
+    {
+      "word": "sida",
+      "start": 206.55999755859375,
+      "end": 206.97999572753906
+    },
+    {
+      "word": "så",
+      "start": 206.97999572753906,
+      "end": 207.44000244140625
+    },
+    {
+      "word": "tror",
+      "start": 207.44000244140625,
+      "end": 207.66000366210938
+    },
+    {
+      "word": "jag",
+      "start": 207.66000366210938,
+      "end": 207.8000030517578
+    },
+    {
+      "word": "det",
+      "start": 207.8000030517578,
+      "end": 207.9600067138672
+    },
+    {
+      "word": "inte",
+      "start": 207.9600067138672,
+      "end": 208.17999267578125
+    },
+    {
+      "word": "Och",
+      "start": 208.63999938964844,
+      "end": 209.0399932861328
+    },
+    {
+      "word": "åtta",
+      "start": 209.0399932861328,
+      "end": 209.25999450683594
+    },
+    {
+      "word": "dagar",
+      "start": 209.25999450683594,
+      "end": 209.6199951171875
+    },
+    {
+      "word": "därefter",
+      "start": 209.6199951171875,
+      "end": 210.1199951171875
+    },
+    {
+      "word": "var",
+      "start": 210.1199951171875,
+      "end": 210.4600067138672
+    },
+    {
+      "word": "hans",
+      "start": 210.4600067138672,
+      "end": 210.72000122070312
+    },
+    {
+      "word": "lärjungar",
+      "start": 210.72000122070312,
+      "end": 211.25999450683594
+    },
+    {
+      "word": "inne",
+      "start": 211.25999450683594,
+      "end": 211.55999755859375
+    },
+    {
+      "word": "igen",
+      "start": 211.55999755859375,
+      "end": 211.86000061035156
+    },
+    {
+      "word": "och",
+      "start": 212.16000366210938,
+      "end": 212.33999633789062
+    },
+    {
+      "word": "Tomas",
+      "start": 212.33999633789062,
+      "end": 212.75999450683594
+    },
+    {
+      "word": "var",
+      "start": 212.75999450683594,
+      "end": 212.89999389648438
+    },
+    {
+      "word": "med",
+      "start": 212.89999389648438,
+      "end": 213.16000366210938
+    },
+    {
+      "word": "dem",
+      "start": 213.16000366210938,
+      "end": 213.36000061035156
+    },
+    {
+      "word": "Då",
+      "start": 213.66000366210938,
+      "end": 213.8000030517578
+    },
+    {
+      "word": "kom",
+      "start": 213.8000030517578,
+      "end": 214.0800018310547
+    },
+    {
+      "word": "Jesus",
+      "start": 214.0800018310547,
+      "end": 214.63999938964844
+    },
+    {
+      "word": "medan",
+      "start": 214.9600067138672,
+      "end": 215.1999969482422
+    },
+    {
+      "word": "dörrarna",
+      "start": 215.1999969482422,
+      "end": 215.60000610351562
+    },
+    {
+      "word": "var",
+      "start": 215.60000610351562,
+      "end": 215.72000122070312
+    },
+    {
+      "word": "låsta",
+      "start": 215.72000122070312,
+      "end": 216.17999267578125
+    },
+    {
+      "word": "och",
+      "start": 216.39999389648438,
+      "end": 216.83999633789062
+    },
+    {
+      "word": "stod",
+      "start": 216.83999633789062,
+      "end": 216.83999633789062
+    },
+    {
+      "word": "mitt",
+      "start": 216.83999633789062,
+      "end": 217.17999267578125
+    },
+    {
+      "word": "ibland",
+      "start": 217.17999267578125,
+      "end": 217.52000427246094
+    },
+    {
+      "word": "dem",
+      "start": 217.52000427246094,
+      "end": 217.83999633789062
+    },
+    {
+      "word": "och",
+      "start": 217.83999633789062,
+      "end": 218.16000366210938
+    },
+    {
+      "word": "sa",
+      "start": 218.16000366210938,
+      "end": 218.39999389648438
+    },
+    {
+      "word": "–",
+      "start": 218.75999450683594,
+      "end": 218.83999633789062
+    },
+    {
+      "word": "Frid",
+      "start": 218.83999633789062,
+      "end": 219.10000610351562
+    },
+    {
+      "word": "var",
+      "start": 219.10000610351562,
+      "end": 219.32000732421875
+    },
+    {
+      "word": "med",
+      "start": 219.32000732421875,
+      "end": 219.60000610351562
+    },
+    {
+      "word": "er",
+      "start": 219.60000610351562,
+      "end": 219.86000061035156
+    },
+    {
+      "word": "Sedan",
+      "start": 219.86000061035156,
+      "end": 220.39999389648438
+    },
+    {
+      "word": "sa",
+      "start": 220.39999389648438,
+      "end": 220.63999938964844
+    },
+    {
+      "word": "han",
+      "start": 220.63999938964844,
+      "end": 220.77999877929688
+    },
+    {
+      "word": "till",
+      "start": 220.77999877929688,
+      "end": 220.97999572753906
+    },
+    {
+      "word": "Tomas",
+      "start": 220.97999572753906,
+      "end": 221.52000427246094
+    },
+    {
+      "word": "–",
+      "start": 222.16000366210938,
+      "end": 222.16000366210938
+    },
+    {
+      "word": "Räck",
+      "start": 222.16000366210938,
+      "end": 222.1999969482422
+    },
+    {
+      "word": "hit",
+      "start": 222.1999969482422,
+      "end": 222.47999572753906
+    },
+    {
+      "word": "ditt",
+      "start": 222.47999572753906,
+      "end": 222.66000366210938
+    },
+    {
+      "word": "finger",
+      "start": 222.66000366210938,
+      "end": 223.05999755859375
+    },
+    {
+      "word": "och",
+      "start": 223.05999755859375,
+      "end": 223.33999633789062
+    },
+    {
+      "word": "se",
+      "start": 223.33999633789062,
+      "end": 223.5800018310547
+    },
+    {
+      "word": "mina",
+      "start": 223.5800018310547,
+      "end": 223.82000732421875
+    },
+    {
+      "word": "händer",
+      "start": 223.82000732421875,
+      "end": 224.22000122070312
+    },
+    {
+      "word": "och",
+      "start": 224.5399932861328,
+      "end": 224.8800048828125
+    },
+    {
+      "word": "räck",
+      "start": 224.8800048828125,
+      "end": 224.8800048828125
+    },
+    {
+      "word": "hit",
+      "start": 224.8800048828125,
+      "end": 225.16000366210938
+    },
+    {
+      "word": "din",
+      "start": 225.16000366210938,
+      "end": 225.39999389648438
+    },
+    {
+      "word": "hand",
+      "start": 225.39999389648438,
+      "end": 225.67999267578125
+    },
+    {
+      "word": "och",
+      "start": 225.67999267578125,
+      "end": 226.17999267578125
+    },
+    {
+      "word": "stickpen",
+      "start": 226.17999267578125,
+      "end": 226.67999267578125
+    },
+    {
+      "word": "i",
+      "start": 226.67999267578125,
+      "end": 226.8000030517578
+    },
+    {
+      "word": "min",
+      "start": 226.8000030517578,
+      "end": 227.02000427246094
+    },
+    {
+      "word": "sida",
+      "start": 227.02000427246094,
+      "end": 227.36000061035156
+    },
+    {
+      "word": "och",
+      "start": 227.8800048828125,
+      "end": 228.0399932861328
+    },
+    {
+      "word": "tvivla",
+      "start": 228.0399932861328,
+      "end": 228.4600067138672
+    },
+    {
+      "word": "inte",
+      "start": 228.4600067138672,
+      "end": 228.89999389648438
+    },
+    {
+      "word": "utan",
+      "start": 228.89999389648438,
+      "end": 229.44000244140625
+    },
+    {
+      "word": "tro",
+      "start": 229.44000244140625,
+      "end": 229.97999572753906
+    },
+    {
+      "word": "Och",
+      "start": 230.1999969482422,
+      "end": 230.5399932861328
+    },
+    {
+      "word": "Tomas",
+      "start": 230.5399932861328,
+      "end": 230.86000061035156
+    },
+    {
+      "word": "svarade",
+      "start": 230.86000061035156,
+      "end": 231.36000061035156
+    },
+    {
+      "word": "och",
+      "start": 231.36000061035156,
+      "end": 231.75999450683594
+    },
+    {
+      "word": "sa",
+      "start": 231.75999450683594,
+      "end": 231.97999572753906
+    },
+    {
+      "word": "till",
+      "start": 231.97999572753906,
+      "end": 232.17999267578125
+    },
+    {
+      "word": "honom",
+      "start": 232.17999267578125,
+      "end": 232.47999572753906
+    },
+    {
+      "word": "–",
+      "start": 232.82000732421875,
+      "end": 232.9199981689453
+    },
+    {
+      "word": "Min",
+      "start": 232.9199981689453,
+      "end": 233
+    },
+    {
+      "word": "Herre",
+      "start": 233,
+      "end": 233.36000061035156
+    },
+    {
+      "word": "och",
+      "start": 233.36000061035156,
+      "end": 233.55999755859375
+    },
+    {
+      "word": "min",
+      "start": 233.55999755859375,
+      "end": 233.8000030517578
+    },
+    {
+      "word": "Gud",
+      "start": 233.8000030517578,
+      "end": 234.05999755859375
+    },
+    {
+      "word": "Jesus",
+      "start": 234.55999755859375,
+      "end": 234.9600067138672
+    },
+    {
+      "word": "sa",
+      "start": 234.9600067138672,
+      "end": 235.24000549316406
+    },
+    {
+      "word": "till",
+      "start": 235.24000549316406,
+      "end": 235.47999572753906
+    },
+    {
+      "word": "honom",
+      "start": 235.47999572753906,
+      "end": 235.67999267578125
+    },
+    {
+      "word": "–",
+      "start": 236.0399932861328,
+      "end": 236.32000732421875
+    },
+    {
+      "word": "Eftersom",
+      "start": 236.32000732421875,
+      "end": 236.52000427246094
+    },
+    {
+      "word": "du",
+      "start": 236.52000427246094,
+      "end": 236.66000366210938
+    },
+    {
+      "word": "har",
+      "start": 236.66000366210938,
+      "end": 236.83999633789062
+    },
+    {
+      "word": "sett",
+      "start": 236.83999633789062,
+      "end": 237.0800018310547
+    },
+    {
+      "word": "mig",
+      "start": 237.0800018310547,
+      "end": 237.4600067138672
+    },
+    {
+      "word": "Tomas",
+      "start": 237.6199951171875,
+      "end": 238.02000427246094
+    },
+    {
+      "word": "tror",
+      "start": 238.3000030517578,
+      "end": 238.47999572753906
+    },
+    {
+      "word": "du",
+      "start": 238.47999572753906,
+      "end": 238.75999450683594
+    },
+    {
+      "word": "Saliga",
+      "start": 239.3800048828125,
+      "end": 239.72000122070312
+    },
+    {
+      "word": "är",
+      "start": 239.72000122070312,
+      "end": 239.97999572753906
+    },
+    {
+      "word": "de",
+      "start": 239.97999572753906,
+      "end": 240.24000549316406
+    },
+    {
+      "word": "som",
+      "start": 240.24000549316406,
+      "end": 240.44000244140625
+    },
+    {
+      "word": "inte",
+      "start": 240.44000244140625,
+      "end": 240.82000732421875
+    },
+    {
+      "word": "ser",
+      "start": 240.82000732421875,
+      "end": 241.1999969482422
+    },
+    {
+      "word": "och",
+      "start": 241.1999969482422,
+      "end": 241.52000427246094
+    },
+    {
+      "word": "ändå",
+      "start": 241.52000427246094,
+      "end": 241.9199981689453
+    },
+    {
+      "word": "tror",
+      "start": 241.9199981689453,
+      "end": 242.24000549316406
+    },
+    {
+      "word": "Och",
+      "start": 242.72000122070312,
+      "end": 242.86000061035156
+    },
+    {
+      "word": "i",
+      "start": 242.86000061035156,
+      "end": 243.02000427246094
+    },
+    {
+      "word": "sanning",
+      "start": 243.02000427246094,
+      "end": 243.36000061035156
+    },
+    {
+      "word": "gjorde",
+      "start": 243.36000061035156,
+      "end": 243.6999969482422
+    },
+    {
+      "word": "Jesus",
+      "start": 243.6999969482422,
+      "end": 244.25999450683594
+    },
+    {
+      "word": "i",
+      "start": 244.25999450683594,
+      "end": 244.52000427246094
+    },
+    {
+      "word": "sina",
+      "start": 244.52000427246094,
+      "end": 244.75999450683594
+    },
+    {
+      "word": "lärjungars",
+      "start": 244.75999450683594,
+      "end": 245.3800048828125
+    },
+    {
+      "word": "åsyn",
+      "start": 245.3800048828125,
+      "end": 245.97999572753906
+    },
+    {
+      "word": "också",
+      "start": 245.97999572753906,
+      "end": 246.55999755859375
+    },
+    {
+      "word": "många",
+      "start": 246.55999755859375,
+      "end": 247.0399932861328
+    },
+    {
+      "word": "andra",
+      "start": 247.0399932861328,
+      "end": 247.47999572753906
+    },
+    {
+      "word": "mirakler",
+      "start": 247.47999572753906,
+      "end": 248.0800018310547
+    },
+    {
+      "word": "som",
+      "start": 248.0800018310547,
+      "end": 248.32000732421875
+    },
+    {
+      "word": "inte",
+      "start": 248.32000732421875,
+      "end": 248.6999969482422
+    },
+    {
+      "word": "är",
+      "start": 248.6999969482422,
+      "end": 248.8800048828125
+    },
+    {
+      "word": "uppskrivna",
+      "start": 248.8800048828125,
+      "end": 249.5
+    },
+    {
+      "word": "i",
+      "start": 249.5,
+      "end": 249.67999267578125
+    },
+    {
+      "word": "denna",
+      "start": 249.67999267578125,
+      "end": 250.0399932861328
+    },
+    {
+      "word": "bok",
+      "start": 250.0399932861328,
+      "end": 250.3800048828125
+    },
+    {
+      "word": "Men",
+      "start": 251.0399932861328,
+      "end": 251.1199951171875
+    },
+    {
+      "word": "dessa",
+      "start": 251.1199951171875,
+      "end": 251.4600067138672
+    },
+    {
+      "word": "har",
+      "start": 251.4600067138672,
+      "end": 251.63999938964844
+    },
+    {
+      "word": "blivit",
+      "start": 251.63999938964844,
+      "end": 251.9600067138672
+    },
+    {
+      "word": "medskrivna",
+      "start": 251.9600067138672,
+      "end": 253.1199951171875
+    },
+    {
+      "word": "för",
+      "start": 253.1199951171875,
+      "end": 253.3800048828125
+    },
+    {
+      "word": "att",
+      "start": 253.3800048828125,
+      "end": 253.55999755859375
+    },
+    {
+      "word": "ni",
+      "start": 253.55999755859375,
+      "end": 253.74000549316406
+    },
+    {
+      "word": "ska",
+      "start": 253.74000549316406,
+      "end": 253.8800048828125
+    },
+    {
+      "word": "tro",
+      "start": 253.8800048828125,
+      "end": 254.22000122070312
+    },
+    {
+      "word": "att",
+      "start": 254.22000122070312,
+      "end": 254.52000427246094
+    },
+    {
+      "word": "Jesus",
+      "start": 254.52000427246094,
+      "end": 255.02000427246094
+    },
+    {
+      "word": "är",
+      "start": 255.02000427246094,
+      "end": 255.3000030517578
+    },
+    {
+      "word": "Kristus",
+      "start": 255.3000030517578,
+      "end": 256
+    },
+    {
+      "word": "Guds",
+      "start": 256.3800048828125,
+      "end": 256.4800109863281
+    },
+    {
+      "word": "son",
+      "start": 256.4800109863281,
+      "end": 256.82000732421875
+    },
+    {
+      "word": "och",
+      "start": 257.17999267578125,
+      "end": 257.29998779296875
+    },
+    {
+      "word": "för",
+      "start": 257.29998779296875,
+      "end": 257.4599914550781
+    },
+    {
+      "word": "att",
+      "start": 257.4599914550781,
+      "end": 257.5799865722656
+    },
+    {
+      "word": "ni",
+      "start": 257.5799865722656,
+      "end": 257.760009765625
+    },
+    {
+      "word": "genom",
+      "start": 257.760009765625,
+      "end": 258
+    },
+    {
+      "word": "tron",
+      "start": 258,
+      "end": 258.5400085449219
+    },
+    {
+      "word": "ska",
+      "start": 258.5400085449219,
+      "end": 258.8800048828125
+    },
+    {
+      "word": "ha",
+      "start": 258.8800048828125,
+      "end": 259.0799865722656
+    },
+    {
+      "word": "liv",
+      "start": 259.0799865722656,
+      "end": 259.3999938964844
+    },
+    {
+      "word": "i",
+      "start": 259.3999938964844,
+      "end": 259.6000061035156
+    },
+    {
+      "word": "hans",
+      "start": 259.6000061035156,
+      "end": 259.8999938964844
+    },
+    {
+      "word": "namn",
+      "start": 259.8999938964844,
+      "end": 260.29998779296875
+    }
+  ],
+  "verseTimings": [
+    {
+      "verseNumber": 1,
+      "start": 0,
+      "end": 9.760000228881836
+    },
+    {
+      "verseNumber": 2,
+      "start": 10.5600004196167,
+      "end": 23.600000381469727
+    },
+    {
+      "verseNumber": 3,
+      "start": 23.600000381469727,
+      "end": 28.65999984741211
+    },
+    {
+      "verseNumber": 4,
+      "start": 28.65999984741211,
+      "end": 35.86000061035156
+    },
+    {
+      "verseNumber": 5,
+      "start": 36.459999084472656,
+      "end": 41.70000076293945
+    },
+    {
+      "verseNumber": 6,
+      "start": 42.41999816894531,
+      "end": 48.599998474121094
+    },
+    {
+      "verseNumber": 7,
+      "start": 48.599998474121094,
+      "end": 57.31999969482422
+    },
+    {
+      "verseNumber": 8,
+      "start": 57.31999969482422,
+      "end": 64.36000061035156
+    },
+    {
+      "verseNumber": 9,
+      "start": 64.94000244140625,
+      "end": 68.91999816894531
+    },
+    {
+      "verseNumber": 10,
+      "start": 69.66000366210938,
+      "end": 72.41999816894531
+    },
+    {
+      "verseNumber": 11,
+      "start": 72.95999908447266,
+      "end": 78.91999816894531
+    },
+    {
+      "verseNumber": 12,
+      "start": 78.91999816894531,
+      "end": 87.12000274658203
+    },
+    {
+      "verseNumber": 13,
+      "start": 87.5199966430664,
+      "end": 96
+    },
+    {
+      "verseNumber": 14,
+      "start": 96.4800033569336,
+      "end": 102.87999725341797
+    },
+    {
+      "verseNumber": 15,
+      "start": 103.62000274658203,
+      "end": 117.19999694824219
+    },
+    {
+      "verseNumber": 16,
+      "start": 117.5199966430664,
+      "end": 123.62000274658203
+    },
+    {
+      "verseNumber": 17,
+      "start": 124.26000213623047,
+      "end": 137.17999267578125
+    },
+    {
+      "verseNumber": 18,
+      "start": 137.74000549316406,
+      "end": 144.16000366210938
+    },
+    {
+      "verseNumber": 19,
+      "start": 144.67999267578125,
+      "end": 158.36000061035156
+    },
+    {
+      "verseNumber": 20,
+      "start": 158.86000061035156,
+      "end": 166.1999969482422
+    },
+    {
+      "verseNumber": 21,
+      "start": 166.77999877929688,
+      "end": 173.72000122070312
+    },
+    {
+      "verseNumber": 22,
+      "start": 174.22000122070312,
+      "end": 179.6999969482422
+    },
+    {
+      "verseNumber": 23,
+      "start": 180,
+      "end": 186.94000244140625
+    },
+    {
+      "verseNumber": 24,
+      "start": 187.47999572753906,
+      "end": 192.4600067138672
+    },
+    {
+      "verseNumber": 25,
+      "start": 193.1199951171875,
+      "end": 208.17999267578125
+    },
+    {
+      "verseNumber": 26,
+      "start": 208.63999938964844,
+      "end": 219.86000061035156
+    },
+    {
+      "verseNumber": 27,
+      "start": 219.86000061035156,
+      "end": 229.97999572753906
+    },
+    {
+      "verseNumber": 28,
+      "start": 230.1999969482422,
+      "end": 233.8000030517578
+    },
+    {
+      "verseNumber": 29,
+      "start": 234.55999755859375,
+      "end": 242.24000549316406
+    },
+    {
+      "verseNumber": 30,
+      "start": 242.72000122070312,
+      "end": 250.3800048828125
+    },
+    {
+      "verseNumber": 31,
+      "start": 251.0399932861328,
+      "end": 260.29998779296875
+    }
+  ]
+}
